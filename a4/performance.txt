@@ -1,0 +1,65 @@
+Linked
+======
+
+10
+linkedmap over 10 iterations.
+[1491179028104 linked] put loop count: 45
+[1491179028104 linked] get loop count: 100
+100
+linkedmap over 100 iterations.
+[1491179046511 linked] put loop count: 4950
+[1491179046511 linked] get loop count: 10000
+1,000
+linkedmap over 1000 iterations.
+[1491179100103 linked] put loop count: 499500
+[1491179100103 linked] get loop count: 1000000
+10,000
+linkedmap over 10000 iterations.
+[1491179121260 linked] put loop count: 49995000
+[1491179121260 linked] get loop count: 100000000
+100,000
+linkedmap over 100000 iterations.
+[1491179138916 linked] put loop count: 704941204
+[1491179138916 linked] get loop count: 1409965408
+300,000
+linkedmap over 300000 iterations.
+[1491179308330 linked] put loop count: 2047715560
+[1491179308330 linked] get loop count: -200907250
+Binary Search Tree
+==================
+
+10
+bst   map over 10 iterations.
+[1491180679966 bst   ] put loop count: 22
+[1491180679966 bst   ] get loop count: 52
+100
+bst   map over 100 iterations.
+[1491180746755 bst   ] put loop count: 590
+[1491180746755 bst   ] get loop count: 1362
+1,000
+bst   map over 1000 iterations.
+[1491180288077 bst   ] put loop count: 9871
+[1491180288077 bst   ] get loop count: 21874
+10,000
+bst   map over 10000 iterations.
+[1491180304565 bst   ] put loop count: 159131
+[1491180304565 bst   ] get loop count: 338070
+100,000
+bst   map over 100000 iterations.
+[1491180318026 bst   ] put loop count: 2042956
+[1491180318026 bst   ] get loop count: 4284675
+300,000
+bst   map over 300000 iterations.
+[1491180333118 bst   ] put loop count: 6731456
+[1491180333118 bst   ] get loop count: 14057052
+1,000,0000
+bst   map over 10000000 iterations.
+[1491180363122 bst   ] put loop count: 290940295
+[1491180363122 bst   ] get loop count: 601859967
+Questions
+=========
+
+1) Approximately how long did it take your computer to run the test for 300,000 iterations on the linked implementation?
+Answer: 14mins 56seconds
+2) What is the maximum value you can run the binary search tree implementation for and have it finish in less than a few seconds?
+Answer: 500000
